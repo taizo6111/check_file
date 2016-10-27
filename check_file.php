@@ -5,7 +5,7 @@ ini_set( 'display_errors', 1 );
 
 date_default_timezone_set('Asia/Tokyo');
 
-//$url = "C:/xampp/htdocs/fw/public/media";
+$url = "";
 $IP = "";
 $url = "";
 $array = getFileList($url);
